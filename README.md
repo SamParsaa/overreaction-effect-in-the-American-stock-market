@@ -1,5 +1,5 @@
 # overreaction-effect-in-the-American-stock-market
-Examining the overreaction effect in the American stock market with a focus on the US Oil and Gas and IT market.
+Examining the overreaction effect in the American stock market with a focus on the US Oil and Gas and IT market. 
 
  
 #Abstract:  
